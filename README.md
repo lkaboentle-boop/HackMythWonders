@@ -1,4 +1,4 @@
-Hack&Myth Bestie - The War Between true and false!
+Hack&MythWonders - The War Between true and false!
 
 **Description**
 Hack&Myth Bestie is an interactive mobile application designed to educate users by distinguishing between common myhts and hacks. The app presents users with statements and challenges them to identify whether each one is a myth or a useful hack, making learning both fun and engaging.
