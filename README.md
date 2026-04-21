@@ -12,6 +12,15 @@ Animated transitions for a smooth user experience
 Simple and user-friendly UI design
 
 **Screenshots**
+- Welcome Page
+<img width="372" height="661" alt="Welcome Page" src="https://github.com/user-attachments/assets/11ed5f29-8bb8-4af7-881f-282b70896577" />
+
+- Quiz Page
+<img width="366" height="659" alt="Quiz screen" src="https://github.com/user-attachments/assets/b4a281b0-d091-4551-b66f-77eb0da244fb" />
+
+- Score Screen
+<img width="412" height="719" alt="Score screen" src="https://github.com/user-attachments/assets/311a61d7-50de-4346-9ed6-45bd52c6df1a" />
+
 
 
 **How it Works**
