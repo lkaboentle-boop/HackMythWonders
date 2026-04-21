@@ -1,4 +1,4 @@
-Hack&Myth Bestie - The true and false Worlds!
+Hack&Myth Bestie - The War Between true and false!
 
 **Description**
 Hack&Myth Bestie is an interactive mobile application designed to educate users by distinguishing between common myhts and hacks. The app presents users with statements and challenges them to identify whether each one is a myth or a useful hack, making learning both fun and engaging.
@@ -20,6 +20,8 @@ Simple and user-friendly UI design
 
 - Score Screen
 <img width="412" height="719" alt="Score screen" src="https://github.com/user-attachments/assets/311a61d7-50de-4346-9ed6-45bd52c6df1a" />
+
+
 
 
 
