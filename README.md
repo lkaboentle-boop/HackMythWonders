@@ -1,7 +1,7 @@
 Hack&MythWonders - The War Between true and false!
 
 **Description**
-Hack&Myth Bestie is an interactive mobile application designed to educate users by distinguishing between common myhts and hacks. The app presents users with statements and challenges them to identify whether each one is a myth or a useful hack, making learning both fun and engaging.
+Hack&MythWonders is an interactive mobile application designed to educate users by distinguishing between common myhts and hacks. The app presents users with statements and challenges them to identify whether each one is a myth or a useful hack, making learning both fun and engaging.
 
 **Features**
 Interactive quiz interface
@@ -22,7 +22,8 @@ Simple and user-friendly UI design
 <img width="412" height="719" alt="Score screen" src="https://github.com/user-attachments/assets/311a61d7-50de-4346-9ed6-45bd52c6df1a" />
 
 
-
+**Explanation YouTube Link**
+https://youtube.com/shorts/Q3JcR4vnMGI?si=QmhxUxvG_lI6kJPl
 
 
 **How it Works**
